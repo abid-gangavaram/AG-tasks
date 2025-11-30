@@ -1,10 +1,9 @@
 # For pratice only
 # Calculator Application
 
-# calc = ["1.Addition", "2.Subtraction", "3.Multiplication", "4.division"]
 print("1.Addition\n2.Subtraction\n3.Multiplication\n4.Division")
 option = int(input("Enter option from above list: "))
-if option not in [1,2,3,4]:
+if option not in [1, 2, 3, 4]:
     print("Invalid command")
 else:
     num1 = int(input("Enter a number1: "))
