@@ -1,2 +1,1 @@
-# Calculator
-Practicing python
+# Practicing python
